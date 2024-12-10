@@ -1,4 +1,6 @@
 Object Detection and Gesture Recognition
+
+
 This project implements real-time Object Detection using YOLOv5 and Gesture Recognition using MediaPipe Hands, powered by OpenCV. The application processes video feeds from a webcam to detect objects and recognize gestures, providing an interactive way to toggle between the two modes.
 
 Features
