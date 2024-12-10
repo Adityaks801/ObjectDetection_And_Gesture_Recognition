@@ -14,18 +14,7 @@ Press G to switch to Gesture Recognition.
 Press Q to quit the application.
 
 
-   
-object-gesture-project/
-│
-├── main.py                # Entry point for the application
-├── object_detection.py    # Logic for object detection
-├── gesture_recognition.py # Logic for gesture recognition
-├── models/                # Pretrained YOLOv5 models (if required)
-├── utils/                 # Helper functions (optional)
-├── data/                  # Gesture datasets (optional)
-└── README.md              # Documentation
-
-
+ 
 
 Technologies Used
 
